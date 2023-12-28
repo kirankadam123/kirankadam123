@@ -24,7 +24,7 @@
 - Databases: Postgresql, Mysql, Sql server
 ### ⚙️ Tech Stack
 
-![Bootstrap](https://img.shields.io/badge/-java-05122A?style=flat-square&logo=java&color=353535) ![Bootstrap](https://img.shields.io/badge/-javascript-05122A?style=flat-square&logo=javascript&color=353535) ![Bootstrap](https://img.shields.io/badge/-c-05122A?style=flat-square&logo=c&color=353535) ![Bootstrap](https://img.shields.io/badge/-c%2B%2B-05122A?style=flat-square&logo=c++&color=353535) ![Bootstrap](https://img.shields.io/badge/-dotnet-05122A?style=flat-square&logo=dotnet&color=353535) ![Bootstrap](https://img.shields.io/badge/-mysql-05122A?style=flat-square&logo=mysql&color=353535) ![Bootstrap](https://img.shields.io/badge/-postgresql-05122A?style=flat-square&logo=postgresql&color=353535)
+![Bootstrap](https://img.shields.io/badge/-java-05122A?style=flat-square&logo=java&color=353535) ![Bootstrap](https://img.shields.io/badge/-dotnet-05122A?style=flat-square&logo=dotnet&color=353535) ![Bootstrap](https://img.shields.io/badge/-mysql-05122A?style=flat-square&logo=mysql&color=353535) ![Bootstrap](https://img.shields.io/badge/-postgresql-05122A?style=flat-square&logo=postgresql&color=353535)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
