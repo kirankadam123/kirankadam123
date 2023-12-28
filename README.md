@@ -8,7 +8,7 @@
 
 [![Github](https://img.shields.io/github/followers/hejazizo?label=Follow&style=social)](https://github.com/hejazizo)
 
-- 💻 A highly adaptable and motivated fresher with a keen eye for detail, disciplined approach to coding and debugging, and proven capabilities in cloud architecture and development. Seeking to leverage former experience and unrivaled enthusiasm to build exceptional software and take on innovative projects for a company that values excellence and forward-thinking.
+- 💻 Dedicated IT professional with a proven record in software development and database management. Proficient in diverse programming languages and database technologies, showcasing adaptability and a solid foundation in creating innovative solutions. Recognized for ensuring the integrity and efficiency of data-driven applications. Eager to contribute technical skills and problem-solving abilities in a dynamic software development role.
 
 - 📫 How to reach me:  kirankadam1512@gmail.com
 
@@ -19,9 +19,9 @@
 
 ### 🖥 Skills
 
-- Languages : Java, Javascript, C, C++, 
-- Framework: Dotnet
-- Databases: Postgresql, Mysql
+- Languages : Java, C sharp 
+- Framework: Dotnet, C sharp dotnet
+- Databases: Postgresql, Mysql, Sql server
 ### ⚙️ Tech Stack
 
 ![Bootstrap](https://img.shields.io/badge/-java-05122A?style=flat-square&logo=java&color=353535) ![Bootstrap](https://img.shields.io/badge/-javascript-05122A?style=flat-square&logo=javascript&color=353535) ![Bootstrap](https://img.shields.io/badge/-c-05122A?style=flat-square&logo=c&color=353535) ![Bootstrap](https://img.shields.io/badge/-c%2B%2B-05122A?style=flat-square&logo=c++&color=353535) ![Bootstrap](https://img.shields.io/badge/-dotnet-05122A?style=flat-square&logo=dotnet&color=353535) ![Bootstrap](https://img.shields.io/badge/-mysql-05122A?style=flat-square&logo=mysql&color=353535) ![Bootstrap](https://img.shields.io/badge/-postgresql-05122A?style=flat-square&logo=postgresql&color=353535)
