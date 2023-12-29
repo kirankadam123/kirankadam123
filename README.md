@@ -12,7 +12,7 @@
 
 - 📫 How to reach me:  kirankadam1512@gmail.com
 
-- My Resume : [Resume]()
+- My Resume : [Resume](https://drive.google.com/file/d/1SICnZyLGvkBZvBglUc4h2gUdWxhOHdmt/view?usp=drive_link)
 
 - All my projects are available at : [Portfolio](https://github.com/kirankadam123/Software-Developer-Portfolio-.git)
 
